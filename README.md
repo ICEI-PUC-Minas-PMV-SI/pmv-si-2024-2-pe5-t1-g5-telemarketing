@@ -13,7 +13,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Breno de Oliveira Pereira
 * Diego Calado Freitas
-* Matheus de Oliveira Souza Santos
 * Mauricio Martins dos Santos
 * Rodrigo Pena Furtado
 * Samara Mariah dos Santos
