@@ -11,12 +11,12 @@
 
 | Aluno                | Participação                             |
 |----------------------|-----------------------------------------|
-| Breno de Oliveira Pereira    | Escolha do tema entre os propostos; definição dos papéis de cada integrante para o projeto; criação do protótipo da rede; inclusão da proposta inicial e responsabilidades; escrita da introdução baseada no cenário escolhido; configuração da estrutura lógica e física da rede; ajustes finais no documento e no protótipo; gravação do vídeo.              |
-| Diego Calado Freitas    | Escolha do tema entre os propostos; definição dos papéis de cada integrante para o projeto; criação do protótipo da rede; inclusão da proposta inicial e responsabilidades; escrita da introdução baseada no cenário escolhido; configuração da estrutura lógica e física da rede; listagem de equipamentos e recursos necessários; ajustes finais no documento e no protótipo; upload dos arquivos para as plataformas.            |
-| Maurício Martins dos Santos    | Escolha do tema entre os propostos; definição dos papéis de cada integrante para o projeto; criação do protótipo da rede; inclusão da proposta inicial e responsabilidades; escrita da introdução baseada no cenário escolhido; configuração da estrutura lógica e física da rede; ajustes finais no documento e no protótipo; gravação do vídeo.             |
-| Rodrigo Pena Furtado    | No documento de projeto: "Resumo" e "Abstract". Criação da versão "Telemarketing-v1.4.pkt" do protótipo de redes.|
-| Samara Mariah dos Santos    | Escolha do tema entre os propostos; definição dos papéis de cada integrante para o projeto; criação do protótipo da rede; inclusão da proposta inicial e responsabilidades; escrita da introdução baseada no cenário escolhido; listagem de equipamentos e recursos necessários; ajustes finais no documento e no protótipo.              |
-| Sílvia de Oliveira Cunha    | Escolha do tema entre os propostos; definição dos papéis de cada integrante para o projeto; criação do protótipo da rede; inclusão da proposta inicial e responsabilidades; escrita da introdução baseada no cenário escolhido; listagem de equipamentos e recursos necessários; ajustes finais no documento e no protótipo; gravação do vídeo; upload dos arquivos para as plataformas.             |
+| Breno de Oliveira Pereira    | Confecção do Documento de Tema e Proposta; config DHCP - Sede; configuração de rotas; gravação do vídeo              |
+| Diego Calado Freitas    | Confecção do Documento de Tema e Proposta; Config DHCP - Sede; configuração do DNS; planilha de recursos de rede; gravação do vídeo        |
+| Maurício Martins dos Santos    |  Confecção do Documento de Tema e Proposta; Config DHCP - Sede; configuração e-mail-FTP; configuração do DNS; gravação do vídeo           |
+| Rodrigo Pena Furtado    | Confecção do Documento de Tema e Proposta; configuração do DNS|
+| Samara Mariah dos Santos    |  Confecção do Documento de Tema e Proposta; organização da topologia; planilha de recursos de rede; gravação do vídeo            |
+| Sílvia de Oliveira Cunha    |  Confecção do Documento de Tema e Proposta; organização da topologia; planilha de recursos de rede; gravação do vídeo          |
 
 
 
