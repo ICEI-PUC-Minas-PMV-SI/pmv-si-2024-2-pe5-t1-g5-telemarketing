@@ -14,7 +14,7 @@
 | Breno de Oliveira Pereira    | [Descrição da participação]             |
 | Diego Calado Freitas    | [Descrição da participação]             |
 | Maurício Martins dos Santos    | [Descrição da participação]             |
-| Rodrigo Pena Furtado    | Configuração do servidor ftp na instância da Aws e participação no vídeo|
+| Rodrigo Pena Furtado    | Configuração do servidor ftp na instância da Aws e participação no vídeo e no documento do projeto|
 | Samara Mariah dos Santos    | [Descrição da participação]             |
 | Sílvia de Oliveira Cunha    | [Descrição da participação]             |
 
