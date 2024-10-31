@@ -3,7 +3,7 @@
 ## 📋 Informações Gerais 
 
 - **Tema do Projeto:** empresa de telemarketing
-- **Data da Entrega:** 02/10/2024
+- **Data da Entrega:** 03/10/2024
 - **Curso:** Sistemas de Informação
 - **Professor:** Fábio Leandro Rodrigues Cordeiro
 
