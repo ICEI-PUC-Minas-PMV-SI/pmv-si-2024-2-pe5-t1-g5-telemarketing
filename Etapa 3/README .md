@@ -7,7 +7,7 @@
 - **Curso:** Sistemas de Informação
 - **Professor:** Fábio Leandro Rodrigues Cordeiro
 
-## 💻 Etapa 1
+## 💻 Etapa 3
 
 | Aluno                | Participação                             |
 |----------------------|-----------------------------------------|
