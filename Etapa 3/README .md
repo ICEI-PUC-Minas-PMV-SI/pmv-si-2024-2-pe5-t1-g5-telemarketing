@@ -14,7 +14,7 @@
 | Breno de Oliveira Pereira    | [Descrição da participação]             |
 | Diego Calado Freitas    | [Descrição da participação]             |
 | Maurício Martins dos Santos    | [Descrição da participação]             |
-| Rodrigo Pena Furtado    | [Descrição da participação] |
+| Rodrigo Pena Furtado    | Instalação e configuração do zabbix-agent na instância da AWS para monitoramento no servidor Zabbix e edição no documento do projeto. |
 | Samara Mariah dos Santos    | [Descrição da participação]             |
 | Sílvia de Oliveira Cunha    | [Descrição da participação]             |
 
