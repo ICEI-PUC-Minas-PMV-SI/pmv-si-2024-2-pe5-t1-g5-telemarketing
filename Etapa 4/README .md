@@ -12,7 +12,7 @@
 | Aluno                | Participação                             |
 |----------------------|-----------------------------------------|
 | Breno de Oliveira Pereira    | Auxílio no deploy do backend da aplicação             |
-| Diego Calado Freitas    | Desenvolvimento do Backend em C#           |
+| Diego Calado Freitas    | Desenvolvimento do Backend em C# / ASPNET           |
 | Maurício Martins dos Santos    | Deploy do backend da aplicação            |
 | Rodrigo Pena Furtado    | participação na elaboração do PSI (vulnerabilidades) e otimização da quantidade de IPs, utilizando a segmentação de redes com NAT e CIDR (no documento). | 
 | Samara Mariah dos Santos    | Elaboração da cartilha              |
